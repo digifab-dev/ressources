@@ -54,6 +54,12 @@ Il s'agit d'une liste croissante de **ressources** pour apprendre et s'améliore
 
     `- [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) vise à fournir des didacticiels couvrant toute une palette de sujets : programmation, montage/production vidéo, animation et conception graphique.`
 
+    Qui donnent :
+
+  - [JavaScript30](https://javascript30.com/): Un challenge de programmation de 30 jours au cours duquel vous devrez construire 30 objets en utilisant du JavaScript classique.
+
+  - [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) vise à fournir des didacticiels couvrant toute une palette de sujets : programmation, montage/production vidéo, animation et conception graphique.
+
 1. Si vous souhaitez créer une nouvelle catégorie pour vos ressources, merci de bien vouloir [**ouvrir une issue**](https://github.com/digifab-dev/ressources/issues) pour informer les responsables du projet de l'existence de cette nouvelle catégorie avant d'en mettre une en place.
 
 2. Ouvrez une **pull request**, avec une courte description, `nom de la branche` et `messages de commit`
