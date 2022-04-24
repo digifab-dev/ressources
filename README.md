@@ -4,7 +4,7 @@ Une liste de ressources collectées par les apprenants, jugées utiles pour chaq
 
 ## Table des matières
 
-- [**Git et GitHub**](Utiliser_Git_et_GitHub.md): Resources page on using Git and GitHub.
+- [**Git et GitHub**](Utiliser_Git_et_GitHub.md): Page de ressources sur l'utilisation de Git et GitHub.
 
 ## Contribuer
 
