@@ -9,3 +9,4 @@
 Voici une liste des noms d'utilisateur GitHub de tous ceux qui ont contribué à ce projet open-source ! **Assurez-vous de vous ajouter et de soumettre une pull request si vous avez contribué.**
 
 - [@digifab-dev](https://github.com/digifab-dev)
+- [@Ste-Cy](https://github.com/Ste-Cy)
